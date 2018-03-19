@@ -8,3 +8,5 @@
 3. git add README.md
 4. git commit -m "Adicionando arquivo README.md"
 5. git push origin master
+
+### Segunda fase do projeto
